@@ -7,6 +7,8 @@ var transporter = nodemailer.createTransport({
   }
 });
 
+Tarjeta Santander Mexico, 5579070089317740, por favor 🙏🏼 no me comentes más de pagos externos por la aplicación yo debo decirte no por allá, por que la ultima vez me bloquearon, es la única forma donde consigo clientes, yo soy freelance, ademas me sirve la calificación por estatus, entonces si pueedes cambiar las condiciones del proyecto y cerrarlo cosa que no me afecte a mi, así sea pago de un dólar porfa 🙏🏼 y ponerme calificación, sería súper 
+
 var mailOptions = {
   from: "juankmilo65@hotmail.com",
   to: "darkfire65@gmail.com",
