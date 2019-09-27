@@ -7,6 +7,8 @@ var transporter = nodemailer.createTransport({
   }
 });
 
+paece, escribeme al correo y hablamos mejor, o me llamas juankmilo65@hotmail.com ahora debo entrar a un test, asi que hagamos est rapido, por que despues sago y no tendre conexión a mi computador
+
 var mailOptions = {
   from: "juankmilo65@hotmail.com",
   to: "darkfire65@gmail.com",
